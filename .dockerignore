@@ -1,0 +1,14 @@
+
+.venv/
+.git/
+frontend/
+streamlit/
+case_studies/
+
+**/__pycache__/
+**/*.pyc
+**/.pytest_cache/
+
+*.log
+.env
+.env.*
